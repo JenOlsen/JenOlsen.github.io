@@ -24,13 +24,13 @@ repository               : "JenOlsen/JenOlsen.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Jennifer Olsen"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Newcastle University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "jenny.olsen@newcastle.ac.uk" 
 
   # Academic websites
   academia         : # URL
