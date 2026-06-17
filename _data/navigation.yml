@@ -12,8 +12,8 @@ main:
     #url: /publications/
     url: https://scholar.google.com/citations?user=Y4nMWpoAAAAJ&hl=en
 
-  #- title: "Talks & Media"
-   # url: /Talks-and-Media/    
+  - title: "Talks"
+    url: /Talks/    
 
   - #title: "Teaching"
     #url: /teaching/    
