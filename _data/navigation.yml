@@ -11,7 +11,7 @@ main:
   - title: "About"
     url: //    
     
-  - title: "Publications"
+  - title: "Publications (Google Scholar)"
     #url: /publications/
     url: https://scholar.google.com/citations?user=Y4nMWpoAAAAJ&hl=en
 
