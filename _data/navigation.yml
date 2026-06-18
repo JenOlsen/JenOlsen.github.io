@@ -22,11 +22,9 @@ main:
     url: https://scholar.google.com/citations?user=Y4nMWpoAAAAJ&hl=en
 
 
-  #- title: "Portfolio"
-   # url: /portfolio/
+  - title: "Portfolio"
+    url: /portfolio/
         
-  - title: "Student Successes"
-    url: /student-successes/
     
   #- title: "CV"
     #url: /cv/
