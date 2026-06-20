@@ -19,7 +19,6 @@ My research sits at the intersection of engineering, healthcare, and human-centr
   <li>Medical device regulation.</li>
 </ul>
 
-I have experience in co-creation methodologies and conducting participant-based experimental research, and have presented my work at the UK Parliament.
 
 </div>
 
@@ -34,6 +33,9 @@ I have experience in co-creation methodologies and conducting participant-based 
 
 </div>
 
+<p>
+I have experience in co-creation methodologies and conducting participant-based experimental research, and have presented my work at the UK Parliament.
+</p>
 
 ---
 
