@@ -1,5 +1,10 @@
+---
+title: "Research"
+layout: single
+permalink: /research/
+author_profile: true
+---
 
-## Research
 
 <div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 20px;">
 
