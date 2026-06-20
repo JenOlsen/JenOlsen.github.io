@@ -5,7 +5,6 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-
 <div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 20px;">
 
 <div style="flex: 1; min-width: 280px;">
@@ -24,9 +23,9 @@ My research sits at the intersection of engineering, healthcare, and human-centr
 
 <div style="flex: 1; min-width: 250px; text-align: center;">
 
-<img src="/images/jen_in_parliament.jpg" alt="A photo of Jenny, presenting her research in the UK Parliament. She is a white woman with brown hair, stood in front of a poster about upper-limb prosthetics. The poster is portrait, and features a pink and white theme." style="max-width:100%; border-radius:10px;" />
+<img src="/images/jen_in_parliament.jpg" alt="A photo of Jenny presenting research at the UK Parliament" style="max-width:100%; border-radius:10px;" />
 
-<p style="font-size: 0.9em; color: grey;">Presenting my research at the 2020 Stem4Britain Competition in UK Parliament.</p>
+<p style="font-size: 0.9em; color: grey;">Presenting my research at the 2020 STEM for Britain competition in the UK Parliament.</p>
 
 </div>
 
