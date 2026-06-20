@@ -7,16 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-## Hello!
-
-I’m Dr Jennifer Olsen (Jenny) - I'm currently a lecturer in mechanical engineering, with an interest in all things assistive technology! I conduct research in medical device design, wearable technologies for health diagnostics, assistive technology, and upper-limb prosthetics.
+Hello! I’m Dr Jennifer Olsen (Jenny) - I'm currently a lecturer in mechanical engineering, with an interest in all things assistive technology! I conduct research in medical device design, wearable technologies for health diagnostics, assistive technology, and upper-limb prosthetics.
 
 - 📘 **Teaching** – see my teaching experience and modules: [View teaching](https://jenolsen.github.io/teaching/)
 - 🔬 **Research** – current themes, collaborations, and supervision: [View research](https://jenolsen.github.io/portfolio/)
 - 🎤 **Talks & Outreach** – public engagement, talks, and videos: [View outreach](https://jenolsen.github.io/talks/)
 - 📄 **Academic CV** – to be added to the site soon!
-
-## Current role
 
 My [current role](https://www.ncl.ac.uk/engineering/staff/profile/jennyolsen.html) combines both teaching and research. I am a Lecturer in Mechanical Engineering and Deputy Degree Programme Director (DPD) for Mechanical Engineering Undergraduate Programmes at Newcastle University.
 
