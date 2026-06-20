@@ -12,11 +12,13 @@ author_profile: true
 
 My research sits at the intersection of engineering, healthcare, and human-centred design, with a focus on developing technologies that improve patient outcomes, clinical practice, and quality of life. My key areas of interest are:
 
-- The development and validation of wearable technology for health diagnostics.
-- Assistive technology and upper-limb prosthetics - aiming to enhance functionality, usability, and user experience through innovative design approaches.
-- Developing interactive medical education technology and teaching aids.
-- Orthopaedic implant failure analysis.
-- Medical device regulation.
+<ul>
+  <li>The development and validation of wearable technology for health diagnostics.</li>
+  <li>Assistive technology and upper-limb prosthetics – aiming to enhance functionality, usability, and user experience through innovative design approaches.</li>
+  <li>Developing interactive medical education technology and teaching aids.</li>
+  <li>Orthopaedic implant failure analysis.</li>
+  <li>Medical device regulation.</li>
+</ul>
 
 I have experience in co-creation methodologies and conducting participant-based experimental research, and have presented my work at the UK Parliament.
 
