@@ -1,14 +1,23 @@
-<!-- start custom footer snippets -->
+{% include base_path %}
 
-<!-- Support for MatJax -->
-<script defer src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-<script defer src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js" id="MathJax-script"></script>
+<div class="page__footer-inner">
+  {% if site.author.github or site.author.bitbucket or site.atom_feed.hide != true %}
+  <div class="page__footer-social">
+    <ul class="social-icons">
+      {% if site.author.github %}
+        <li><a href="http://github.com/{{ site.author.github }}" title="GitHub"><i class="fab fa-github" aria-hidden="true"></i></a></li>
+      {% endif %}
+      {% if site.author.bitbucket %}
+        <li><a href="http://bitbucket.org/{{ site.author.bitbucket }}" title="Bitbucket"><i class="fab fa-bitbucket" aria-hidden="true"></i></a></li>
+      {% endif %}
+      {% if site.atom_feed.hide != true %}
+        <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}" title="Feed"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i></a></li>
+      {% endif %}
+    </ul>
+  </div>
+  {% endif %}
 
-<!-- Support for Mermaid -->
-<script type="module">
-    import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
-    mermaid.initialize({startOnLoad:true, theme:'default'});
-    await mermaid.run({querySelector:'code.language-mermaid'});
-</script>
-
-<!-- end custom footer snippets -->
+  <div class="page__footer-copyright">
+    &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. Built with <a href="https://github.com/academicpages/academicpages.github.io">Academic Pages</a>.
+  </div>
+</div>
