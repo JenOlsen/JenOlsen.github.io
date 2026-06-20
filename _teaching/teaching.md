@@ -3,6 +3,8 @@ permalink: /teaching/
 title: "Teaching"
 ---
 
+My teaching is research-informed and focused on medical devices, engineering design, and accessibility. I aim to make learning engaging and relevant by using real-world examples, while encouraging students to think critically about how engineering can improve lives and create more inclusive technologies.
+
 ## Newcastle University, UK
 - [MEC8056: Medical Devices Regulatory Requirements](https://www.ncl.ac.uk/undergraduate/degrees/module/?code=MEC8056) (Module Lead, since January 2025)
     - As Module Leader for MEC8056, I deliver teaching on the importance of regulatory frameworks in medical devices, drawing on real-world case studies of products that have reached the market yet have given rise to significant patient harm and wider societal concern. The module places a particular emphasis on femtech and women’s health, examining examples such as the Dalkon Shield intrauterine device, the PIP breast implant scandal, and the vaginal mesh scandal.
