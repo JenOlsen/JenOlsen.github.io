@@ -14,16 +14,16 @@ Hello! I’m Dr Jennifer Olsen (Jenny) - I'm currently a lecturer in mechanical 
 - 🎤 **Talks & Outreach** – public engagement, talks, and videos: [View outreach](https://jenolsen.github.io/talks/)
 - 📄 **Academic CV** – to be added to the site soon!
 
-My [current role](https://www.ncl.ac.uk/engineering/staff/profile/jennyolsen.html) combines both teaching and research. I am a Lecturer in Mechanical Engineering and Deputy Degree Programme Director (DPD) for Mechanical Engineering Undergraduate Programmes at Newcastle University.
+My [current role](https://www.ncl.ac.uk/engineering/staff/profile/jennyolsen.html) combines both teaching and research, and I am also the Deputy Degree Programme Director (DPD) for Mechanical Engineering Undergraduate Programmes at Newcastle University.
 
-## Outreach and engagement
+## Outreach and Engagement
 
 I am involved in a range of outreach and engagement activities, particularly those aligned with my research interests in healthcare technologies and inclusive design. A few examples include:
 
 - Creating talking maps and [playable replicas of Roman games in collaboration with the Vindolanda Charitable Trust](https://from.ncl.ac.uk how-3d-printing-revived-roman-britains-most-popular-board-game)
 - [Developing accessible musical instruments for musicians with physical disabilities](https://www.ohmi.org.uk/case-study-7.html)
 
-## Celebrating student success
+## Celebrating Student Success
 
 I am passionate about supporting students and sharing their achievements. Some of my student's recent successes include:
 
