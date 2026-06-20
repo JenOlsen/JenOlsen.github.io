@@ -1,6 +1,7 @@
 ---
 permalink: /teaching/
 title: "Teaching"
+date:
 ---
 
 My teaching is research-informed and focused on medical devices, engineering design, and accessibility. I aim to make learning engaging and relevant by using real-world examples, while encouraging students to think critically about how engineering can improve lives and create more inclusive technologies.
