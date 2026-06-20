@@ -15,6 +15,6 @@ My teaching is research-informed and focused on medical devices, engineering des
 ## Guest Lectures
 - 2024, [Universiti Teknologi Malaysia (UTM), Malaysia](https://www.utm.my/)
     - Through Newcastle's [Global Partnerships Fund](https://www.ncl.ac.uk/global/global-partnerships-fund/), I was able to undertake a two-way exchange with UTM, through which I guest lectured engineering students and staff about the challenges of upper-limb prosthetic socket fit when utilising digital tools to replace more tactile, traditional methods.
-- 2022, [Strathcylde University, UK](https://www.strath.ac.uk/)
+- 2022, [Strathclyde University, UK](https://www.strath.ac.uk/)
     - I was invited to give a guest-lecture series on how to safely digitise prosthetic socket manufacturing to the undergraduate [BSc Hons Prosthetics & Orthotics](https://www.strath.ac.uk/courses/undergraduate/prostheticsorthotics/) cohort.
 
