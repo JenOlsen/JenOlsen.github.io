@@ -11,24 +11,14 @@ redirect_from:
 
 I’m Dr Jennifer Olsen (Jenny) - I'm currently a lecturer in mechanical engineering, with an interest in all things assistive technology! I conduct research in medical device design, wearable technologies for health diagnostics, assistive technology, and upper-limb prosthetics.
 
----
-
-## What you’ll find here
-
-You can explore different aspects of my work across the site:
-
 - 📘 **Teaching** – see my teaching experience and modules: [View teaching](https://jenolsen.github.io/teaching/)
 - 🔬 **Research** – current themes, collaborations, and supervision: [View research](https://jenolsen.github.io/portfolio/)
 - 🎤 **Talks & Outreach** – public engagement, talks, and videos: [View outreach](https://jenolsen.github.io/talks/)
 - 📄 **Academic CV** – to be added to the site soon!
 
----
-
 ## Current role
 
 My [current role](https://www.ncl.ac.uk/engineering/staff/profile/jennyolsen.html) combines both teaching and research. I am a Lecturer in Mechanical Engineering and Deputy Degree Programme Director (DPD) for Mechanical Engineering Undergraduate Programmes at Newcastle University.
-
----
 
 ## Outreach and engagement
 
@@ -37,9 +27,6 @@ I am involved in a range of outreach and engagement activities, particularly tho
 - Creating talking maps and [playable replicas of Roman games in collaboration with the Vindolanda Charitable Trust](https://from.ncl.ac.uk how-3d-printing-revived-roman-britains-most-popular-board-game)
 - [Developing accessible musical instruments for musicians with physical disabilities](https://www.ohmi.org.uk/case-study-7.html)
 
-
----
-
 ## Celebrating student success
 
 I am passionate about supporting students and sharing their achievements. Some of my student's recent successes include:
@@ -47,8 +34,3 @@ I am passionate about supporting students and sharing their achievements. Some o
 - 2025, **S. Caldwell** - won both the "IMechE Frederic Barnes Waldron Prize (Certificate and Medal)" and "IMechE “Best Student” Prize for her dissertation in additively manufactured upper-limb prosthetics.
 - 2024, **C. Bridgewater** - won a [national award for accessible design](https://experience.ncl.ac.uk/engineering-student-wins-prestigious-rising-star-award).
 
-
-
----
-
-``
