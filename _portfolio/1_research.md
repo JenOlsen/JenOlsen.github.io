@@ -19,6 +19,8 @@ My research sits at the intersection of engineering, healthcare, and human-centr
   <li>Medical device regulation.</li>
 </ul>
 
+I have experience in co-creation methodologies and conducting participant-based experimental research, and have presented my work at the UK Parliament.
+
 </div>
 
 <div style="flex: 1; min-width: 250px; text-align: center;">
@@ -27,7 +29,6 @@ My research sits at the intersection of engineering, healthcare, and human-centr
 
 <p style="font-size: 0.9em; color: grey;">Presenting my research at the 2020 STEM for Britain competition in the UK Parliament.</p>
 
-I have experience in co-creation methodologies and conducting participant-based experimental research, and have presented my work at the UK Parliament.
 
 </div>
 
