@@ -35,12 +35,9 @@ layout: default
         {% endif %}
         
         {% if page.collection == 'teaching' %}
-          <p> {{ page.type }}, <i>{{ page.venue }}</i> </p>
-        {% elsif page.venue %}
-          <p> {{ page.type }}, <i>{{ page.venue }}</i> </p>
-        {% endif %}    
-        </header>
-      {% endunless %}
+        <!-- no metadata shown -->
+         {% endif %}
+
 
       <section class="page__content" itemprop="text">
         {{ content }}
