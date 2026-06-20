@@ -3,7 +3,7 @@ permalink: /teaching/
 title: "Teaching"
 ---
 
-My teaching is research-informed and focused on medical devices, engineering design, and accessibility. I aim to make learning engaging and relevant by using real-world examples, while encouraging students to think critically about how engineering can improve lives and create more inclusive technologies. Through my teaching, I have gained [Fellowship of Advance HE (D2)](https://www.advance-he.ac.uk/fellowship/fellowship).
+My teaching is research-informed and focused on medical devices, engineering design, and accessibility. I aim to make learning engaging and relevant by using real-world examples, while encouraging students to think critically about how engineering can improve lives and create more inclusive technologies. I am a [Fellow of Advance HE (D2)](https://www.advance-he.ac.uk/fellowship/fellowship).
 
 ## Newcastle University, UK
 - [MEC8056: Medical Devices Regulatory Requirements](https://www.ncl.ac.uk/undergraduate/degrees/module/?code=MEC8056) (Module Lead, since January 2025)
