@@ -20,9 +20,6 @@ My research sits at the intersection of engineering, healthcare, and human-centr
   <li>Medical device regulation.</li>
 </ul>
 
-I have experience in co-creation methodologies and conducting participant-based experimental research, and have presented my work at the UK Parliament.
-
-
 </div>
 
 <div style="flex: 1; min-width: 250px; text-align: center;">
@@ -35,7 +32,7 @@ I have experience in co-creation methodologies and conducting participant-based 
 
 </div>
 
-
+I have experience in co-creation methodologies and conducting participant-based experimental research, and have presented my work at the UK Parliament.
 ---
 
 ### Current Research Supervision
@@ -46,8 +43,8 @@ I have experience in co-creation methodologies and conducting participant-based 
 ### Past Research Supervision
 
 - **S. Uche**, 2025, [Newcastle University Research Scholar](https://www.ncl.ac.uk/student-financial-support/research-funding/)
-  Hands-Off: Analysing the role of sensors and closed-loop systems for pressure ulcer prevention.
+  - Hands-Off: Analysing the role of sensors and closed-loop systems for pressure ulcer prevention.
 - **[J. Lee](https://research.ncl.ac.uk/expeditionresearchscholarships/postergalleries/Chak%20Hai%20Jeremy%20Lee.pdf)**, 2025, [Newcastle University Research Scholar](https://www.ncl.ac.uk/student-financial-support/research-funding/)
-  Shape memory alloy compositing using gallium-gold putty for use in medical implants.
+  - Shape memory alloy compositing using gallium-gold putty for use in medical implants.
 - **[S. Uche](https://research.ncl.ac.uk/expeditionresearchscholarships/prizewinners/2024winners/2024%20Research%20Scholarships%20and%20Expeditions%20Brochure%203.45MB.pdf)**, 2024, [Newcastle University Research Scholar](https://www.ncl.ac.uk/student-financial-support/research-funding/)
-  Developing a Closed-loop Intervention for Pressure Ulcer Prevention: A Literature Review and Proof of Concept. Awarded a project commendation, and presented at the [2025 European Pressure Ulcer Advisory Panel Annual Meeting](https://epuap.org/wp-content/uploads/sites/17/2026/02/Abstract-book_FINAL.pdf)
+  - Developing a Closed-loop Intervention for Pressure Ulcer Prevention: A Literature Review and Proof of Concept. Awarded a project commendation, and presented at the [2025 European Pressure Ulcer Advisory Panel Annual Meeting](https://epuap.org/wp-content/uploads/sites/17/2026/02/Abstract-book_FINAL.pdf).
