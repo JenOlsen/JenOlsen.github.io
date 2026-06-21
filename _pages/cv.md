@@ -48,7 +48,7 @@ Newcastle University, Newcastle, UK | *2019 – 2023*
 - Thesis: *Towards modernising trans-radial prosthetic socket creation with digital methods*  
 
 **BEng in Mechanical Engineering**  
-Newcastle University, Newcastle, UK | *2015 – 2019*  
+Newcastle University, Newcastle, UK | *2016 – 2019*  
 - First Class Honours  
 
 
