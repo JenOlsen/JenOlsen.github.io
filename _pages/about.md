@@ -12,7 +12,7 @@ Hello! I’m Dr Jennifer Olsen (Jenny) - I'm currently a lecturer in mechanical 
 - 📘 **Teaching** – see my teaching experience and modules: [View teaching](https://jenolsen.github.io/teaching/)
 - 🔬 **Research** – current themes, collaborations, and supervision: [View research](https://jenolsen.github.io/portfolio/)
 - 🎤 **Talks & Outreach** – public engagement, talks, and videos: [View outreach](https://jenolsen.github.io/talks/)
-- 📄 **Academic CV** – to be added to the site soon!
+- 📄 **Academic CV** – [View CV](https://jenolsen.github.io/cv/)
 
 My [current role](https://www.ncl.ac.uk/engineering/staff/profile/jennyolsen.html) combines both teaching and research, and I am also the Deputy Degree Programme Director (DPD) for Mechanical Engineering Undergraduate Programmes at Newcastle University.
 

@@ -23,13 +23,9 @@ main:
   - title: "Publications (Google Scholar)"
     #url: /publications/
     url: https://scholar.google.com/citations?user=Y4nMWpoAAAAJ&hl=en
-
-
-
-        
-    
-  #- title: "CV"
-    #url: /cv/
+ 
+  - title: "CV"
+    url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
