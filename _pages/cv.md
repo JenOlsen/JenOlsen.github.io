@@ -116,13 +116,13 @@ Talent 2030 | *2016*
 - Engineering design (Autodesk Inventor, Fusion 360, AutoCAD)  
 - Signal processing and data analysis (Python, MATLAB)  
 - Experimental design, including participant-facing studies and co-design  
-- Medical device regulation (UK, EU, and US frameworks)  
+- Medical device regulation (predominantly UK, EU, and US frameworks)  
 
 **Continuing Professional Development**  
-- Good Clinical Practice | NIHR, UK (*2026*)  
-- Introduction to Leadership | Newcastle University, UK (*2026*)  
-- Advance HE Fellow (Descriptor 2) | Advance HE, UK (*2025*)  
-- Coordinate Measuring Machine (CMM) Training | Mitutoyo, UK (*2025*)
+- Good Clinical Practice - NIHR, UK (*2026*)  
+- Introduction to Leadership - Newcastle University, UK (*2026*)  
+- Advance HE Fellow (Descriptor 2) - Advance HE, UK (*2025*)  
+- Coordinate Measuring Machine (CMM) Training - Mitutoyo, UK (*2025*)
 
 
 ## Publications
