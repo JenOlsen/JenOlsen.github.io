@@ -55,5 +55,5 @@ I have experience in co-creation methodologies and conducting participant-based 
 
 ### External Examination Experience
 
-- **N. Pickard (PhD)**, 2026
-  University of Salford, UK 
+- **N. Pickard (PhD)**, 2026  
+*University of Salford, UK*
