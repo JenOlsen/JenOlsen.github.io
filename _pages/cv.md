@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Dr. Jennifer Olsen - CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+---
 ## Employment
 
 **Lecturer in Mechanical Engineering**  
@@ -38,7 +38,7 @@ University of Salford, UK | *April 2026*
 **IMechE Young Members Panel Volunteer**  
 Newcastle, UK | *Nov 2016 – Nov 2019*   
 
-
+---
 ## Education
 
 **PhD in Electrical & Electronic Engineering**  
@@ -49,8 +49,7 @@ Newcastle University, Newcastle, UK | *2019 – 2023*
 Newcastle University, Newcastle, UK | *2015 – 2019*  
 - First Class Honours  
 
-
-
+---
 ## Funding History
 
 **Impact Accelerator Award (PI, £9,500)**  
@@ -88,7 +87,7 @@ Newcastle University / EPSRC | *2019*
 
 **Trent International Prosthetics & Orthotics Symposium Travel Award (£150)**  
 TIPS | *2019* 
-
+---
 ## Awards & Nominations
 
 **Empowerment Champion (Nominated)**  
@@ -106,7 +105,7 @@ Hackcessible | *2021*
 **Female Engineer of the Year (Winner)**  
 Talent 2030 | *2016*  
 
-
+---
 ## Skills & CPD
 
 **Skills**  
@@ -120,6 +119,7 @@ Talent 2030 | *2016*
 - Introduction to Leadership | Newcastle University, UK (*2026*)  
 - Advance HE Fellow (Descriptor 2) | Advance HE, UK (*2025*)  
 - Coordinate Measuring Machine (CMM) Training | Mitutoyo, UK (*2025*)
+---
 
 ## Publications
 
