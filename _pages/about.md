@@ -22,6 +22,7 @@ I am involved in a range of outreach and engagement activities, particularly tho
 
 - Creating talking maps and [playable replicas of Roman games in collaboration with the Vindolanda Charitable Trust](https://from.ncl.ac.uk how-3d-printing-revived-roman-britains-most-popular-board-game)
 - [Developing accessible musical instruments for musicians with physical disabilities](https://www.ohmi.org.uk/case-study-7.html)
+- Creating [3D printed replicas of the North East seabeds and shipwrecks](https://exploreseascapes.co.uk/wp-content/uploads/2024/12/Beneath-The-Waves-Report.pdf) in collaboration with the "SeaScapes" project, displayed at the Tall Ships Festival 2023 and Hartlepool Museum
 
 ## Celebrating Student Success
 
