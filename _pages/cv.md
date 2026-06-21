@@ -18,7 +18,7 @@ Newcastle University, UK | *Jan 2025 – Present*
 **EPSRC Doctoral Prize Fellow**  
 Newcastle University, UK | *Aug 2023 – Dec 2024*  
 
-**Cast Member — Masters of Reinvention (Series 1)**  
+**Cast Member - Masters of Reinvention (Series 1)**  
 AirTV, UK | *Apr 2024 – Aug 2024*  
 
 **STEM Ambassador / Street Scientist**  
