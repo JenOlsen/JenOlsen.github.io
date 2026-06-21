@@ -52,3 +52,8 @@ I have experience in co-creation methodologies and conducting participant-based 
   - Shape memory alloy compositing using gallium-gold putty for use in medical implants.
 - **[S. Uche](https://research.ncl.ac.uk/expeditionresearchscholarships/prizewinners/2024winners/2024%20Research%20Scholarships%20and%20Expeditions%20Brochure%203.45MB.pdf)**, 2024, [Newcastle University Research Scholar](https://www.ncl.ac.uk/student-financial-support/research-funding/)
   - Developing a Closed-loop Intervention for Pressure Ulcer Prevention: A Literature Review and Proof of Concept. Awarded a project commendation, and presented at the [2025 European Pressure Ulcer Advisory Panel Annual Meeting](https://epuap.org/wp-content/uploads/sites/17/2026/02/Abstract-book_FINAL.pdf).
+
+### External Examination Experience
+
+- **N. Pickard (PhD)**, 2026
+  University of Salford, UK 
