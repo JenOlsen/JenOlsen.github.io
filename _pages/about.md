@@ -32,11 +32,8 @@ I am passionate about supporting students and sharing their achievements. Some o
 - 2024, **C. Bridgewater** - won a [national award for accessible design](https://experience.ncl.ac.uk/engineering-student-wins-prestigious-rising-star-award).
 
 
-<iframe 
-  src="https://openbadgefactory.com/obv3/credentials/8caf103cda81d906a5b44230b5b89ed230fb1e01"
-  width="100%" 
-  height="600" 
-  frameborder="0">
-</iframe>
+<div style="text-align: centre; margin-top: 20px;">
+  <img src="images/leadership.png" alt="My Open Badge" width="120">
+</div>
 
 
