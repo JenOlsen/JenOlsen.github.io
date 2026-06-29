@@ -33,7 +33,7 @@ I am passionate about supporting students and sharing their achievements. Some o
 
 
 <div style="text-align: centre; margin-top: 20px;">
-  <img src="images/leadership.png" alt="My Open Badge" width="120">
+  <img src="images/leadership.png" alt="My Open Badge for Leadership" width="120">
 </div>
 
 
