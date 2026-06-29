@@ -9,7 +9,7 @@ author_profile: true
 
 <div style="flex: 1; min-width: 280px;">
 
-My research sits at the intersection of engineering, healthcare, and human-centred design, with a focus on developing technologies that improve patient outcomes, clinical practice, and quality of life. My key areas of interest are:
+My research interests are:
 
 <ul>
   <li>The development and validation of wearable technology for health diagnostics.</li>
@@ -34,7 +34,7 @@ My research sits at the intersection of engineering, healthcare, and human-centr
 </div>
 
 <p>
-I have experience in co-creation methodologies and conducting participant-based experimental research, and have presented my work at the UK Parliament.
+I have experience in co-creation methodologies and conducting participant-based experimental research, and have presented my work at the UK Parliament. I am particularly interested in research that focuses on upper-limb difference, myasthenia gravis, PoTS & motor neurone disease.
 </p>
 
 ---
