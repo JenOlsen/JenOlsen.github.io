@@ -20,7 +20,7 @@ My [current role](https://www.ncl.ac.uk/engineering/staff/profile/jennyolsen.htm
 
 I am involved in a range of outreach and engagement activities, particularly those aligned with my research interests in healthcare technologies and inclusive design. A few examples include:
 
-- Creating talking maps and [playable replicas of Roman games in collaboration with the Vindolanda Charitable Trust](https://from.ncl.ac.uk/how-3d-printing-revived-roman-britains-most-popular-board-game)
+- Creating talking maps and [playable replicas of Roman games in collaboration with the Vindolanda Charitable Trust](https://www.bbc.com/news/articles/cn4dw9nd2llo)
 - [Developing accessible musical instruments for musicians with physical disabilities](https://www.ohmi.org.uk/case-study-7.html)
 - Creating [3D printed replicas of the North East seabeds and shipwrecks](https://exploreseascapes.co.uk/wp-content/uploads/2024/12/Beneath-The-Waves-Report.pdf) in collaboration with the "SeaScapes" project, displayed at the Tall Ships Festival 2023 and Hartlepool Museum
 
@@ -30,4 +30,13 @@ I am passionate about supporting students and sharing their achievements. Some o
 
 - 2025, **S. Caldwell** - won both the "IMechE Frederic Barnes Waldron Prize (Certificate and Medal)" and "IMechE “Best Student” Prize for her dissertation in additively manufactured upper-limb prosthetics.
 - 2024, **C. Bridgewater** - won a [national award for accessible design](https://experience.ncl.ac.uk/engineering-student-wins-prestigious-rising-star-award).
+
+
+<iframe 
+  src="https://openbadgefactory.com/obv3/credentials/8caf103cda81d906a5b44230b5b89ed230fb1e01"
+  width="100%" 
+  height="600" 
+  frameborder="0">
+</iframe>
+
 
