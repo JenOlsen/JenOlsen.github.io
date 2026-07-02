@@ -133,7 +133,7 @@ Talent 2030 | *2016*
 *Replication of clinical prosthetic sockets for research purposes*  
 Chadwell, A., Kenney, L., Prince, M., **Olsen, J.**, Dyson, M.  
 Prosthetics and Orthotics International, 2024.  
-[DOI](https://doi.org/10.1097/PXR.0000000000000192)  
+[DOI](https://doi.org/10.1097/pxr.0000000000000386)  
 
 *Does trans-radial longitudinal compression influence myoelectric control?*  
 **Olsen, J.**, Day, S., Dupan, S., Nazarpour, K., Dyson, M.  
@@ -143,7 +143,7 @@ Canadian Prosthetics & Orthotics Journal, 2022.
 *Influence of design and material characteristics on 3D-printed flow-cells for heat transfer-based analytical devices*  
 Figueiredo, L.F., Vieira, F.S., Jamieson, O.D., Reeder, J., McLean, T., **Olsen, J.**, et al.  
 Microchimica Acta, 2022.  
-[DOI](https://doi.org/10.1007/s00604-022-05173-0)  
+[DOI](https://doi.org/10.1007/s00604-022-05163-2)  
 
 *The impact of limited prosthetic socket documentation: a researcher perspective*  
 **Olsen, J.**, Turner, S., Chadwell, A., Dickinson, A., Ostler, C., Armitage, L., et al.  
@@ -153,7 +153,7 @@ Frontiers in Rehabilitation Sciences, 2022.
 *3D-printing and upper-limb prosthetic sockets: promises and pitfalls*  
 **Olsen, J.**, Day, S., Dupan, S., Nazarpour, K., Dyson, M.  
 IEEE Transactions on Neural Systems and Rehabilitation Engineering, 2021.  
-[DOI](https://doi.org/10.1109/TNSRE.2021.3059776)  
+[DOI](https://doi.org/10.1109/tnsre.2021.3057984)  
 
 
 ### Conference Papers
