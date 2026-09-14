@@ -45,7 +45,18 @@ I have experience in co-creation methodologies and conducting participant-based 
   Research topic: Upper-limb prosthetic socket fit & skin health
 
 ### Past Research Supervision
-
+- **G. Pegler**, 2026, EPSRC Research Intern
+  - Validating Wrist Based Wearables for the Diagnosis and Monitoring of Postural Tachycardia Syndrome (PoTS) 
+- **J. Miller**, 2026, Intern (University of Florida)
+  - Triaging Mask Leaks for Patients on Oxygen Therapy (in collaboration with St Oswald's Hospice)
+- **E. Stozenski**, 2026, Intern (University of Florida)
+  - Development of a Cardiac Diagnostics Platform for Hospital Emergency Departments and Medical Training Simulations
+- **N. Walsh**, 2026, Intern (University of Florida)
+  - Developing Low-Cost Ultrasound Phantom Models for Medical Training and Research
+- **S. Gande**, 2026, Intern (University of Florida)
+  - Development of an Automated Vascular Segmentation Tool for Neuroimaging Applications (in collaboration with Newcastle upon Tyne Hospitals)
+- **I. Veiga**, 2026, Intern (University of Florida)
+  - Development of a Gamified 3D Spinal Model for Medical Education
 - **S. Uche**, 2025, [Newcastle University Research Scholar](https://www.ncl.ac.uk/student-financial-support/research-funding/)
   - Hands-Off: Analysing the role of sensors and closed-loop systems for pressure ulcer prevention.
 - **[J. Lee](https://research.ncl.ac.uk/expeditionresearchscholarships/postergalleries/Chak%20Hai%20Jeremy%20Lee.pdf)**, 2025, [Newcastle University Research Scholar](https://www.ncl.ac.uk/student-financial-support/research-funding/)
